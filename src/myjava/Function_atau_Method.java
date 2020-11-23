@@ -13,7 +13,7 @@ public class Function_atau_Method {
 //
 //        System.out.println("Nilai x = " + x + ", Hasil = " + y);
 
-
+        pPersegi("Menghitung Luas Persegi");
         System.out.print("Masukkan Angka: ");
         x = input.nextInt();
 
@@ -28,6 +28,11 @@ public class Function_atau_Method {
 //        hasil = (input + 2) * input;
 //        return hasil;
 //    }
+
+//    Void hanya untuk Print dan tidak  ada nilai return
+    static void pPersegi(String input){
+        System.out.println(input);
+    }
 
     static int persegi(int input){
         int hasil;
