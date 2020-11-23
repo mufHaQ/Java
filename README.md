@@ -22,6 +22,7 @@
 - [Do While Loop](https://github.com/mufHaQ/Java/blob/master/src/myjava/Do_While_Loop.java)
 - [For Loop](https://github.com/mufHaQ/Java/blob/master/src/myjava/For_Loop.java)
 - [Nested Loops](https://github.com/mufHaQ/Java/blob/master/src/myjava/Nested_Loops.java)
+- [Fungsi atau Method](https://github.com/mufHaQ/Java/blob/master/src/myjava/Fungsi_atau_Method.java)
 
 **Latihan:**
 - [Latihan Operator Logika](https://github.com/mufHaQ/Java/blob/master/src/Latihan/Latihan_Operator_Logika.java)
