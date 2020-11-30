@@ -1,4 +1,4 @@
-package myjava;
+package myjava1;
 
 import java.util.Scanner;
 
@@ -19,6 +19,8 @@ public class Function_atau_Method {
 
         y = persegi(x);
         System.out.println("Hasil Luas Persegi = " + y);
+
+        
 
     }
 

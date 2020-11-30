@@ -1,5 +1,5 @@
 
-package myjava;
+package myjava1;
 public class Operator_Aritmatika  {
     public static void main(String args[]) {
         // Operasi Aritmatika

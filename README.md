@@ -2,7 +2,7 @@
 
 # Daftar Packages:
 
-**myjava:**
+**myjava1:**
 - [Tipe Data](https://github.com/mufHaQ/Java/blob/master/src/myjava/TipeData.java)
 - [Operator Aritmatika](https://github.com/mufHaQ/Java/blob/master/src/myjava/Operator_Aritmatika.java)
 - [Konversi Tipe Data](https://github.com/mufHaQ/Java/blob/master/src/myjava/Konversi_Tipe_Data.java)
@@ -23,6 +23,10 @@
 - [For Loop](https://github.com/mufHaQ/Java/blob/master/src/myjava/For_Loop.java)
 - [Nested Loops](https://github.com/mufHaQ/Java/blob/master/src/myjava/Nested_Loops.java)
 - [Function atau Method](https://github.com/mufHaQ/Java/blob/master/src/myjava/Function_atau_Method.java)
+
+**myjava2:**
+
+
 
 **Latihan:**
 - [Latihan Operator Logika](https://github.com/mufHaQ/Java/blob/master/src/Latihan/Latihan_Operator_Logika.java)

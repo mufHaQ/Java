@@ -1,5 +1,5 @@
 
-package myjava;
+package myjava1;
 
 public class Nested_If {
 

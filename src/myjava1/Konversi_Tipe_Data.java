@@ -1,4 +1,4 @@
-package myjava;
+package myjava1;
 
 public class Konversi_Tipe_Data {
     public static void main(String args[]) {

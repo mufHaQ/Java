@@ -1,4 +1,4 @@
-package myjava;
+package myjava1;
 
 public class While_Loop {
 
