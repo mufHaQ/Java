@@ -13,14 +13,16 @@ public class Function_atau_Method {
 //
 //        System.out.println("Nilai x = " + x + ", Hasil = " + y);
 
-        pPersegi("Menghitung Luas Persegi");
+        fVoid("Memuai Program\n");
+        fVoid("Menghitung Luas Persegi");
         System.out.print("Masukkan Angka: ");
         x = input.nextInt();
 
         y = persegi(x);
         System.out.println("Hasil Luas Persegi = " + y);
+        fVoid("\nPrograms Selesai");
 
-        
+
 
     }
 
@@ -31,8 +33,8 @@ public class Function_atau_Method {
 //        return hasil;
 //    }
 
-//    Void hanya untuk Print dan tidak  ada nilai return
-    static void pPersegi(String input){
+//    Void hanya untuk Print dan tidak ada nilai return
+    static void fVoid(String input){
         System.out.println(input);
     }
 
