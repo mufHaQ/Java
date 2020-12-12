@@ -17,24 +17,46 @@ public class LFMM {
             panjang = inpt.nextInt();
             System.out.print("Masukkan Lebar: ");
             lebar = inpt.nextInt();
-            System.out.println("\n");
+//            System.out.println("\n");
             System.out.print("\n");
             mGambar(panjang, lebar);
 
-            System.out.print("\n Apakah anda ingin mengulangi?\nJika ya masukkan (y), jika tidak masukkan (n): ");
+            System.out.print("\n");
+
+            kelluas(panjang, lebar);
+
+
+            System.out.print("\n Apakah anda ingin mengulangi?\nJika ya masukkan (y), jika tidak masukkan (n atau t): ");
             ulang = inpt.next();
 
             switch (ulang){
                 case "y":
                     continue;
-                case "t":
+                case "t", "n":
                     ulangi = false;
+                    System.out.println("\nTerima Kasih");
                     break;
                 default:
                     System.out.println("Maaf, tidak ada dalam pilihan");
+                    ulangi = false;
                     break;
             }
         }
+    }
+
+    private static void kelluas(int panjang, int lebar){
+        System.out.println("Luas: " + luas(panjang, lebar));
+        System.out.println("Keliling: " + keliling(panjang, lebar));
+    }
+
+    private static int keliling(int panjang, int lebar){
+        int hasil = 2 * (panjang + lebar);
+        return hasil;
+    }
+
+    private static int luas (int panjang, int lebar){
+        int hasil = panjang * lebar;
+        return hasil;
     }
 
     static void mGambar(int panjang, int lebar) {
