@@ -32,3 +32,4 @@
 - [Kalkulator (Switch Case)](https://github.com/mufHaQ/Java/blob/master/src/Latihan/Kalkulator_Switch_Case.java)
 - [Looping Sederhana](https://github.com/mufHaQ/Java/blob/master/src/Latihan/Looping_Sederhana.java)
 - [Looping Deret Fibonacci](https://github.com/mufHaQ/Java/blob/master/src/Latihan/Looping_Deret_Fibonacci.java)
+- [LFMM](https://github.com/mufHaQ/Java/blob/master/src/Latihan/LFMM.java)
