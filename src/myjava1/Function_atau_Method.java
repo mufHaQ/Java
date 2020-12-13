@@ -23,7 +23,7 @@ public class Function_atau_Method {
         fVoid("\nPrograms Selesai");
 
 
-
+        input.close();
     }
 
 //    static int hitung(int input){

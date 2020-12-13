@@ -42,6 +42,8 @@ public class LFMM {
                     break;
             }
         }
+        
+        inpt.close();
     }
 
     private static void kelluas(int panjang, int lebar){

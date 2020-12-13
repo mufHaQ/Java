@@ -41,7 +41,8 @@ public class Testing1 {
 		j = inpt.nextInt();
 		int hasil = a(i, j);
 		System.out.println("\nHasilnya adalah: " + hasil);
-
+		
+		inpt.close();
 
 
 	}
